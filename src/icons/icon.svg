@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48" height="48" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(20.203,-304.12)">
+  <rect x="-20.203" y="308.12" width="48" height="40" fill="#ddd" fill-rule="evenodd" stroke-width=".91287" style="paint-order:stroke markers fill"/>
+  <rect x="-19.291" y="309.03" width="46.176" height="38.176" fill="none" stroke="#808080" stroke-width="1.8241" style="paint-order:stroke markers fill"/>
+  <rect x="-5.7866" y="318.54" width="19.167" height="19.167" fill="none" stroke="#454545" stroke-width="2" style="paint-order:stroke markers fill"/>
+  <g transform="translate(4.1695 -.10169)" fill-rule="evenodd">
+   <rect x="-11.616" y="317.31" width="5.0277" height="9.4" fill="#ddd" stroke-width=".68472" style="paint-order:stroke markers fill"/>
+   <path d="m-5.7035 321.11-4.2526-2.4671 4.2434-2.4608z" fill="#a29481" stroke="#454545" stroke-width="2.611" style="paint-order:stroke markers fill"/>
+  </g>
+ </g>
+</svg>
